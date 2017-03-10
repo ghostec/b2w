@@ -1,0 +1,6 @@
+resize_photos/images
+resize_photos/npm-debug.log
+resize_photos/src/images/*
+resize_photos/node_modules
+hell_triangle/_build
+tags
