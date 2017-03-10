@@ -2,7 +2,7 @@
 
 ### Hell Triangle
 
-The entry method is called 'calc' in the HellTriangle module. e.g HellTriangle.calc([1], [2,3], [4,5,6])
+The entry method is called 'calc' in the HellTriangle module. e.g HellTriangle.calc([[1], [2,3], [4,5,6]])
 
 Run automated tests with 'mix test'
 
